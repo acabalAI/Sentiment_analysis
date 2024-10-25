@@ -19,4 +19,5 @@ openai==0.28
 rouge-score
 langchain_community
 openpyxl
+langchain_openai
 
